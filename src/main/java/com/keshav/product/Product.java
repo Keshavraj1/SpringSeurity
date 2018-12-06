@@ -28,7 +28,6 @@ public class Product {
 				", id=" + id +
 				'}';
 	}
-	System.out.println("Hi keshav ")
-	System.out.println("And then i wrote everything.")
+	
 
 }
